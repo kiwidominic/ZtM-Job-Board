@@ -112,3 +112,20 @@
       }
     }
   }
+
+  ,{
+    "id": 1007,
+    "name": "Dominic Carroll",
+    "img": "",
+    "links": {
+      "website": "https://dominiccarroll.netlify.app/",
+      "linkedin": "https://www.linkedin.com/in/dominic-carroll-webdeveloper-004786140/",
+      "github": "https://github.com/kiwidominic"
+    },
+    "jobTitle": "Front-end developer",
+    "location": {
+      "city": "Auckland",
+      "state": "",
+      "country": "New Zealand"
+    }
+  }
